@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+}
+.list {
+  padding: 20px;
+  border-radius: 4px;
+  margin: 4px;
+  background: #d3d1d1;
+}
